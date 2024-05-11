@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+
+  <body>
+    <div class="container">
+      
+        <div class="contenedor-dados" id="contenedor-dados">
+          <div id="dados">
+            <p id="Turno-jugador"> Turno del jugador {{this.turno}}</p>
+
+            <p id="acertadas"> Preguntas acertadas: 0</p>
+            <p id="falladas"> Preguntas falladas: 0</p>
+  
+            <p id="tog">Sacaste: </p>
+            <p id="dice">0</p>
+            <button id="diceBtn" (click)="lanzar()">Lanzar</button>
+  
+            
+              <p id="pregunta">¿Preguntas Cuestionario?</p>
+              
+              <div class="preguntas"><button id="A" (click)="contestarPreguntas(this.turno, 'A')"> A </button> <p id="pA"> -</p></div>
+              <div class="preguntas"><button id="B" (click)="contestarPreguntas(this.turno, 'B')"> B </button> <p id="pB"> -</p></div>
+              <div class="preguntas"><button id="C" (click)="contestarPreguntas(this.turno, 'C')"> C </button> <p id="pC"> -</p></div>
+              <div class="preguntas"><button id="D" (click)="contestarPreguntas(this.turno, 'D')"> D </button> <p id="pD"> -</p></div>
+          </div>
+       
+          
+        </div>
+     
+
+        
+        <div class="contenedor-tablero" id="contenedor-tablero">
+          <img src="./../../../assets/Game/Fondo.jpeg" alt="fondo" />
+          <div class="cont-img">
+            <img src="./../../../assets/Game/Tablero.png" alt="fondo" />
+          </div>
+          <div id="cont">
+           
+            <div class="box" id="b41"></div>
+            <div class="box" id="b42"></div>
+            <div class="box" id="b43"></div>
+            <div class="box" id="b44"></div>
+            <div class="box" id="b45"></div>
+            <div class="box" id="b46"></div>
+            <div class="box" id="b47"></div>
+            <div class="box" id="b48"></div>
+            <div class="box" id="b49"></div>
+            <div class="box" id="b40"></div>
+            <div class="box" id="b39"></div>
+            <div class="box" id="b38"></div>
+            <div class="box" id="b37"></div>
+            <div class="box" id="b36"></div>
+            <div class="box" id="b35"></div>
+            <div class="box" id="b34"></div>
+            <div class="box" id="b33"></div>
+            <div class="box" id="b32"></div>
+            <div class="box" id="b31"></div>
+            <div class="box" id="b21"></div>
+            <div class="box" id="b22"></div>
+            <div class="box" id="b23"></div>
+            <div class="box" id="b24"></div>
+            <div class="box" id="b25"></div>
+            <div class="box" id="b26"></div>
+            <div class="box" id="b27"></div>
+            <div class="box" id="b28"></div>
+            <div class="box" id="b29"></div>
+            <div class="box" id="b30"></div>
+            <div class="box" id="b20"></div>
+            <div class="box" id="b19"></div>
+            <div class="box" id="b18"></div>
+            <div class="box" id="b17"></div>
+            <div class="box" id="b16"></div>
+            <div class="box" id="b15"></div>
+            <div class="box" id="b14"></div>
+            <div class="box" id="b13"></div>
+            <div class="box" id="b12"></div>
+            <div class="box" id="b11"></div>
+            <div class="box" id="b01">
+            </div>
+            <div class="box" id="b02"></div>
+            <div class="box" id="b03"></div>
+            <div class="box" id="b04"></div>
+            <div class="box" id="b05"></div>
+            <div class="box" id="b06"></div>
+            <div class="box" id="b07"></div>
+            <div class="box" id="b08"></div>
+            <div class="box" id="b09"></div>
+            <div class="box" id="b10"></div>
+          </div>
+
+          <div class="cont-ficha">
+            
+            <div class="box" id="b41"></div>
+            <div class="box" id="b42"></div>
+            <div class="box" id="b43"></div>
+            <div class="box" id="b44"></div>
+            <div class="box" id="b45"></div>
+            <div class="box" id="b46"></div>
+            <div class="box" id="b47"></div>
+            <div class="box" id="b48"></div>
+            <div class="box" id="b49"></div>
+            
+            <div class="box" id="b40"></div>
+            <div class="box" id="b39"></div>
+            <div class="box" id="b38"></div>
+            <div class="box" id="b37"></div>
+            <div class="box" id="b36"></div>
+            <div class="box" id="b35"></div>
+            <div class="box" id="b34"></div>
+            <div class="box" id="b33"></div>
+            <div class="box" id="b32"></div>
+            <div class="box" id="b31"></div>
+            <div class="box" id="b21"></div>
+            <div class="box" id="b22"></div>
+            <div class="box" id="b23"></div>
+            <div class="box" id="b24"></div>
+            <div class="box" id="b25"></div>
+            <div class="box" id="b26"></div>
+            <div class="box" id="b27"></div>
+            <div class="box" id="b28"></div>
+            <div class="box" id="b29"></div>
+            <div class="box" id="b30"></div>
+            <div class="box" id="b20"></div>
+            <div class="box" id="b19"></div>
+            <div class="box" id="b18"></div>
+            <div class="box" id="b17"></div>
+            <div class="box" id="b16"></div>
+            <div class="box" id="b15"></div>
+            <div class="box" id="b14"></div>
+            
+            <div class="box" id="b13"></div>
+            <div class="box" id="b12"></div>
+            <div class="box" id="b11"></div>
+            <div class="box" id="b02"></div>
+            <div class="box" id="b03"></div>
+            <div class="box" id="b04"></div>
+            <div class="box" id="b01">
+              <img  id="player1" src="./../../../assets/Game/Amarillo.png" alt="player4" />
+              <img  id="player2" src="./../../../assets/Game/ficha.png" alt="player1" />
+              <img  id="player3" src="./../../../assets/Game/Verde.png" alt="player2" />
+              <img  id="player4" src="./../../../assets/Game/Azul.png" alt="player3" />
+              
+            </div>
+            <div class="box" id="b05"></div>  
+            <div class="box" id="b06"></div>
+            <div class="box" id="b07"></div>
+            <div class="box" id="b08"></div>
+            <div class="box" id="b09"></div>
+            <div class="box" id="b10"></div>
+            
+            
+          </div>
+        </div>
+
+        <div id="win">
+          <div id="title-win">
+            <div style="display: flex; flex-direction: column; align-items: center; justify-content: center">
+            <h1>Juego Terminado</h1>
+
+            <h1 style="margin-top: 1rem;">Ganador: {{ganador}}</h1>
+          </div>
+          </div>
+          <div id="cont-win">
+
+            <mat-card id="card1" class="example-card">
+              <mat-card-header>
+                <mat-card-title>Jugador</mat-card-title>
+                <mat-card-subtitle>1</mat-card-subtitle>
+              </mat-card-header>
+              <img mat-card-image src="./../../../assets/players/Aguila.jpg" alt="player 1">
+              <mat-card-content>
+                <p>
+                  Preguntas acertadas: {{jugadores[0].preguntasAcertadas}}
+                </p>
+                <p>
+                  Preguntas erradas: {{jugadores[0].preguntasFalladas}}
+                </p>
+              </mat-card-content>
+            </mat-card>
+          
+            
+          
+        
+
+          
+            <mat-card id="card2" class="example-card">
+              <mat-card-header>
+                
+                <mat-card-title>Jugador</mat-card-title>
+                <mat-card-subtitle>2</mat-card-subtitle>
+              </mat-card-header>
+              <img mat-card-image src="./../../../assets/players/tigre.jpg" alt="player 2">
+              <mat-card-content>
+                <p>
+                  Preguntas acertadas: {{jugadores[1].preguntasAcertadas}}
+                </p>
+                <p>
+                  Preguntas erradas: {{jugadores[1].preguntasFalladas}}
+                </p>
+              </mat-card-content>
+            </mat-card>
+          
+          
+        
+            <mat-card  id="card3" class="example-card">
+              <mat-card-header>
+               
+                <mat-card-title>Jugador</mat-card-title>
+                <mat-card-subtitle>3</mat-card-subtitle>
+              </mat-card-header>
+              <img mat-card-image src="./../../../assets/players/tigre.jpg" alt="player 3">
+              <mat-card-content>
+                <p>
+                  Preguntas acertadas: {{jugadores[2].preguntasAcertadas}}
+                </p>
+                <p>
+                  Preguntas erradas: {{jugadores[2].preguntasFalladas}}
+                </p>
+              </mat-card-content>
+              
+            </mat-card>
+          
+         
+
+         
+            <mat-card id="card4" class="example-card">
+              <mat-card-header>
+                <mat-card-title>Jugador</mat-card-title>
+                <mat-card-subtitle>4</mat-card-subtitle>
+              </mat-card-header>
+              <img mat-card-image src="./../../../assets/players/Gato.jpg" alt="player 4">
+              <mat-card-content>
+                <p>
+                  Preguntas acertadas: {{jugadores[3].preguntasAcertadas}}
+                </p>
+                <p>
+                  Preguntas erradas: {{jugadores[3].preguntasFalladas}}
+                </p>
+              </mat-card-content>
+            </mat-card>
+          
+          
+        </div>
+
+        <div id="volver">
+          <button mat-flat-button color="accent" (click)="reset()">Volver a jugar</button>
+        </div>
+
+
+        </div>
+
+      </div>
+  
+  </body>
+</html>
+

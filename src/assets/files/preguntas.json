@@ -1,0 +1,407 @@
+{
+    "preguntas": [
+        
+            {
+                "pregunta": "¿Cuál es el factor más influyente en la evolución del pensamiento estratégico de las empresas de ingeniería informática o sistemas?",
+                "respuesta": "C",
+                "A": "El tamaño de la empresa.",
+                "B": "La ubicación geográfica de la sede principal.",
+                "C": "La rapidez en la adopción de nuevas tecnologías.",
+                "D": "El número de departamentos administrativos."
+            },
+            {
+                "pregunta": "¿Qué se destaca en la creación de una organización exitosa o de alto desempeño en empresas de ingeniería informática o sistemas?",
+                "respuesta": "C",
+                "A": "La exclusividad de una fórmula secreta.",
+                "B": "La implementación de estrategias convencionales.",
+                "C": "La adopción de enfoques personalizados y adaptables.",
+                "D": "La dependencia de recursos financieros ilimitados."
+            },
+            {
+                "pregunta": "Según el texto, 'PLANEACIÓN ESTRATÉGICA GUIARA A LA ORGANIZACIÓN Es el resultado acumulado de un largo y difícil aprendizaje organizacional', ¿qué representa la planeación estratégica para una organización?",
+                "respuesta": "C",
+                "A": "Un proceso simple y directo.",
+                "B": "Un resultado instantáneo.",
+                "C": "Un aprendizaje organizacional prolongado y desafiante.",
+                "D": "Una tarea fácil y rápida."
+            },
+            {
+                "pregunta": "La estrategia está sometida a la incertidumbre, emoción, sentimientos y a la suerte. ¿Cuáles son algunos de los elementos impredecibles que pueden influir en la estrategia, según la afirmación?",
+                "respuesta": "C",
+                "A": "Factores económicos y financieros.",
+                "B": "Variables controlables y medibles.",
+                "C": "Incertidumbre, emociones humanas y contingencias aleatorias.",
+                "D": "Planificación estratégica y análisis de mercado."
+            },
+            {
+                "pregunta": "¿Qué aspectos son fundamentales para la estrategia?",
+                "respuesta": "C",
+                "A": "La táctica y la planificación operativa.",
+                "B": "La improvisación y la adaptación constante.",
+                "C": "La visión y la acción estratégica en un contexto temporal y espacial.",
+                "D": "La estabilidad y la rigidez en la toma de decisiones."
+            },
+            {
+                "pregunta": "¿Qué factor es crucial para el éxito continuo de las empresas de ingeniería informática o sistemas?",
+                "respuesta": "B",
+                "A": "La creación de productos altamente complejos.",
+                "B": "La adaptación constante a los cambios en las necesidades y preferencias del mercado.",
+                "C": "La reducción de costos en la producción.",
+                "D": "El establecimiento de alianzas con competidores directos."
+            },
+            {
+                "pregunta": "¿Qué aspectos son considerados como componentes de un modelo organizacional sectorial?",
+                "respuesta": "C",
+                "A": "Supervisar, delegar y administrar recursos humanos.",
+                "B": "Contratar, formar y retener empleados talentosos.",
+                "C": "Desarrollar, implementar, posicionarse e investigar.",
+                "D": "Producir, distribuir y vender productos o servicios."
+            },
+            {
+                "pregunta": "¿Qué aspectos son relevantes para comprender la competencia en empresas de ingeniería informática o sistemas, según el enfoque de las cinco fuerzas de Porter?",
+                "respuesta": "C",
+                "A": "La estructura de costos y la eficiencia operativa.",
+                "B": "El posicionamiento en el mercado y la publicidad.",
+                "C": "La rivalidad entre competidores y el poder de negociación de los clientes.",
+                "D": "La inversión en tecnología y la capacidad de innovación."
+            },
+            {
+                "pregunta": "¿Cuáles son algunas de las técnicas utilizadas para identificar el posicionamiento en empresas de ingeniería informática o sistemas?",
+                "respuesta": "C",
+                "A": "Investigación de mercado y análisis de tendencias de consumo.",
+                "B": "Análisis de competidores y desarrollo de estrategias de marketing.",
+                "C": "Análisis discriminante, análisis del sector, ANOVA, análisis de conjunto.",
+                "D": "Evaluación de la satisfacción del cliente y seguimiento de la retroalimentación."
+            },
+            {
+                "pregunta": "¿Cuál es la función de ANOVA en empresas de ingeniería informática o sistemas?",
+                "respuesta": "C",
+                "A": "Identificar patrones de compra de clientes.",
+                "B": "Analizar la distribución de los recursos humanos.",
+                "C": "Comparar múltiples grupos de datos para determinar diferencias significativas.",
+                "D": "Evaluar la eficacia de las estrategias publicitarias."
+            },
+            {
+                "pregunta": "¿Por qué el software de gestión integral es crucial en la planeación estratégica y los sistemas de información de una organización?",
+                "respuesta": "B",
+                "A": "Porque permite la comunicación interna entre los empleados.",
+                "B": "Porque automatiza los procesos y optimiza la eficiencia operativa.",
+                "C": "Porque ofrece entretenimiento y motivación a los empleados.",
+                "D": "Porque reduce la necesidad de capacitación del personal."
+            },
+            {
+                "pregunta": "¿Cuál es uno de los principales desafíos asociados con la gestión de sistemas de información?",
+                "respuesta": "B",
+                "A": "La falta de recursos financieros.",
+                "B": "La complejidad técnica y operativa.",
+                "C": "La competencia en el mercado.",
+                "D": "La reducción de la carga de trabajo del personal."
+            },
+            {
+                "pregunta": "¿Cuál es el propósito principal de los Sistemas de Información en una organización?",
+                "respuesta": "C",
+                "A": "Optimizar el uso de las herramientas informáticas.",
+                "B": "Facilitar la comunicación entre los empleados.",
+                "C": "Apoyar la toma de decisiones y la gestión de datos.",
+                "D": "Gestionar los recursos financieros de la empresa."
+            },
+            {
+                "pregunta": "¿Qué función destaca la analogía del sistema de información como el 'sistema nervioso' de una organización?",
+                "respuesta": "C",
+                "A": "La supervisión de las operaciones de producción.",
+                "B": "La facilitación de la comunicación entre departamentos.",
+                "C": "La coordinación, control y comunicación de la información.",
+                "D": "La gestión de recursos humanos y financieros."
+            },
+            {
+                "pregunta": "¿Cuáles son algunos de los criterios importantes para evaluar la calidad de la información?",
+                "respuesta": "C",
+                "A": "Eficiencia, Innovación, Adaptabilidad",
+                "B": "Simplicidad, Flexibilidad, Originalidad",
+                "C": "Verificabilidad, Claridad, Seguridad",
+                "D": "Integración, Colaboración, Transparencia"
+            },
+            {
+                "pregunta": "¿Cuál es el objetivo principal de la gestión de datos en sistemas de información?",
+                "respuesta": "D",
+                "A": "Asegurar la confiabilidad del hardware de la red.",
+                "B": "Maximizar la velocidad de procesamiento de datos.",
+                "C": "Garantizar la seguridad de los archivos de sistema.",
+                "D": "Organizar y gestionar la información de manera eficiente."
+            },
+            {
+                "pregunta": "¿Cuál es el papel fundamental de la información en el contexto empresarial?",
+                "respuesta": "D",
+                "A": "Facilitar la comunicación interna entre los empleados.",
+                "B": "Mejorar la eficiencia de los procesos de producción.",
+                "C": "Proporcionar un marco legal para las transacciones comerciales.",
+                "D": "Ayudar a obtener una ventaja competitiva en el mercado."
+            },
+            {
+                "pregunta": "¿Cuál es uno de los principales beneficios de organizar los datos en sistemas de información?",
+                "respuesta": "C",
+                "A": "Aumentar la complejidad de los procesos de análisis.",
+                "B": "Reducir la seguridad de la información almacenada.",
+                "C": "Mejorar la accesibilidad y búsqueda de la información.",
+                "D": "Incrementar la cantidad de datos almacenados sin restricciones."
+            },
+            {
+                "pregunta": "¿Qué aspectos pueden afectar el funcionamiento de un sistema de información?",
+                "respuesta": "D",
+                "A": "El clima organizacional y la cultura empresarial.",
+                "B": "La ubicación geográfica de la empresa.",
+                "C": "La formación académica del equipo de TI.",
+                "D": "La disponibilidad de recursos tecnológicos y financieros."
+            },
+            {
+                "pregunta": "¿Qué elementos contribuyen a la difusión de la cultura organizacional en una empresa?",
+                "respuesta": "D",
+                "A": "El tamaño físico de las instalaciones de la empresa.",
+                "B": "La cantidad de empleados en la nómina de la empresa.",
+                "C": "La frecuencia de las reuniones de la alta dirección.",
+                "D": "Las prácticas de comunicación interna y el ejemplo de liderazgo."
+            },
+            {
+                "pregunta": "¿Qué aspectos suelen conformar la cultura organizacional de una empresa?",
+                "respuesta": "D",
+                "A": "El número de departamentos existentes en la empresa.",
+                "B": "Los niveles de ventas alcanzados por la empresa.",
+                "C": "Las normativas legales que rigen la industria de la empresa.",
+                "D": "Las creencias, valores y prácticas compartidas entre los empleados de la empresa."
+            },
+            {
+                "pregunta": "¿Qué aspectos suelen ser considerados como características de la cultura organizacional en una empresa?",
+                "respuesta": "C",
+                "A": "La cantidad de empleados que trabajan a tiempo completo.",
+                "B": "El nivel de ingresos anuales generados por la empresa.",
+                "C": "Los símbolos y rituales compartidos dentro de la empresa.",
+                "D": "La ubicación geográfica de las sedes de la empresa."
+            },
+            {
+                "pregunta": "¿Cuál es uno de los enfoques para definir la cultura organizacional según Pettigrew (1979)?",
+                "respuesta": "D",
+                "A": "El análisis de la estructura jerárquica de la empresa.",
+                "B": "La evaluación de la eficiencia operativa de la empresa.",
+                "C": "La consideración de los sistemas de recompensa de la empresa.",
+                "D": "La comprensión de los valores, creencias y hábitos compartidos en la empresa."
+            },
+            {
+                "pregunta": "¿Qué aspectos pueden ser considerados como manifestaciones del malestar organizacional en una empresa?",
+                "respuesta": "D",
+                "A": "La cantidad de empleados que trabajan horas extras.",
+                "B": "El nivel de ventas alcanzado por la empresa en el último trimestre.",
+                "C": "La frecuencia de reuniones de equipo realizadas por el departamento de recursos humanos.",
+                "D": "La rigidez ante los cambios del entorno, la falta de responsabilidad y las dificultades en la resolución de conflictos."
+            },
+            {
+                "pregunta": "¿Qué elementos pueden contribuir a la agilidad estratégica de una organización en un entorno altamente competitivo?",
+                "respuesta": "C",
+                "A": "La implementación de tecnologías obsoletas.",
+                "B": "La adopción de estructuras jerárquicas rígidas.",
+                "C": "La capacidad de adaptación rápida a los cambios del mercado.",
+                "D": "La permanencia en estrategias estáticas y poco flexibles."
+            },
+            {
+                "pregunta": "¿Cuáles son los principios fundamentales del Sistema Operativo Dual?",
+                "respuesta": "C",
+                "A": "Exclusividad, Dependencia, Aislamiento, Vulnerabilidad.",
+                "B": "Interferencia, Conexión, Inseguridad, Desperdicio de recursos.",
+                "C": "Coexistencia, Independencia, Interacción, Seguridad.",
+                "D": "Limitación, Unificación, Desorganización, Desempeño subóptimo."
+            },
+            {
+                "pregunta": "¿Cuáles son algunos de los aceleradores de cambio según John Kotter (1999)?",
+                "respuesta": "C",
+                "A": "Resistencia al cambio, Falta de comunicación, Desmotivación del equipo.",
+                "B": "Crear confusión, Restricción de recursos, Desorganización estructural.",
+                "C": "Establecer un sentido de urgencia, Formar una coalición guía, Crear una visión estratégica.",
+                "D": "Ignorar el cambio, Aplazar decisiones, Minimizar la importancia del proceso de cambio."
+            },
+            {
+                "pregunta": "¿Cuál es uno de los temas principales discutidos en 'La era verde-azul del management'?",
+                "respuesta": "C",
+                "A": "La importancia de la jerarquía rígida en las organizaciones.",
+                "B": "El impacto del cambio climático en el entorno empresarial.",
+                "C": "La necesidad de innovar y adaptarse en un mundo cambiante.",
+                "D": "La aplicación de estrategias de marketing en la era digital."
+            },
+            {
+                "pregunta": "¿Qué caracteriza a las Organizaciones Teal?",
+                "respuesta": "C",
+                "A": "Jerarquías rígidas y centralizadas.",
+                "B": "Cultura organizacional basada en el miedo y la desconfianza.",
+                "C": "Autogestión, plenitud personal y propósito evolutivo.",
+                "D": "Enfoque en el control y la supervisión constante."
+            },
+            {
+                "pregunta": "¿Qué caracteriza el proceso de toma de decisiones en las empresas Teal?",
+                "respuesta": "B",
+                "A": "Se toman decisiones de manera autoritaria por parte de la alta dirección.",
+                "B": "Las decisiones se delegan a equipos autogestionados y se basan en la confianza y el consenso.",
+                "C": "Las decisiones son exclusivamente tomadas por consultores externos.",
+                "D": "Las decisiones son tomadas por un comité selecto de empleados de alto rango."
+            },
+            {
+                "pregunta": "¿Cuáles son los paradigmas que pueden caracterizar a las organizaciones?",
+                "respuesta": "A",
+                "A": "Paradigma jerárquico y paradigma colaborativo.",
+                "B": "Paradigma burocrático y paradigma individualista.",
+                "C": "Paradigma autocrático y paradigma caótico.",
+                "D": "Paradigma tradicional y paradigma utópico."
+            },
+            {
+                "pregunta": "¿Cuál de los siguientes no es un tipo de organización?",
+                "respuesta": "C",
+                "A": "Manada de lobos.",
+                "B": "Modelo Hormigas.",
+                "C": "Elefante.",
+                "D": "Avestruz."
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes opciones no corresponde a una clasificación de la cultura organizacional mencionada?",
+                "respuesta": "C",
+                "A": "Cultura de adhocracia.",
+                "B": "Cultura del clan.",
+                "C": "Cultura de la Gestión.",
+                "D": "Cultura de mercado."
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes afirmaciones es un aspecto importante de la planeación estratégica?",
+                "respuesta": "C",
+                "A": "Se basa únicamente en la situación presente de la organización.",
+                "B": "Debe ser un proceso estático y formal.",
+                "C": "Incluye preguntas sobre el desempeño con los clientes y competidores.",
+                "D": "No requiere la participación de los ingenieros en la toma de decisiones."
+            },
+            {
+                "pregunta": "¿Qué representa la sigla '5W / 1H'?",
+                "respuesta": "C",
+                "A": "Cinco palabras clave y un héroe.",
+                "B": "Cinco semanas y una hora.",
+                "C": "Quién, Qué, Cuándo, Dónde, Por qué y Cómo.",
+                "D": "Cinco warlocks y una hada."
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes actividades forma parte del proceso de planeación estratégica?",
+                "respuesta": "B",
+                "A": "Cocinar, limpiar, leer, dormir.",
+                "B": "Analizar, planificar, ejecutar, evaluar.",
+                "C": "Cantar, bailar, dibujar, saltar.",
+                "D": "Navegar, bucear, esquiar, pescar."
+            },
+            {
+                "pregunta": "¿Cómo se logra la eficiencia, la efectividad y la eficacia en el proceso estratégico?",
+                "respuesta": "C",
+                "A": "A través de la improvisación y la falta de planificación.",
+                "B": "Mediante una comunicación ineficiente y una gestión deficiente de recursos.",
+                "C": "Implementando un enfoque estructurado, planificando cuidadosamente y ejecutando con precisión.",
+                "D": "Aplicando métodos tradicionales y evitando la innovación."
+            },
+            {
+                "pregunta": "¿Qué aspectos son fundamentales para el plan estratégico?",
+                "respuesta": "D",
+                "A": "Resolver problemas cortos y no estar basado en estrategias delineadas.",
+                "B": "No ser conocido por toda la organización y no expresarse en un documento.",
+                "C": "No estar orientado hacia los objetivos estratégicos de la organización y no requerir trabajo en equipo.",
+                "D": "Ser una herramienta de ayuda, estar orientado hacia los objetivos estratégicos de la organización y ser conocido por toda la organización."
+            },
+            {
+                "pregunta": "¿Cuáles son algunas de las entradas para la realización del Plan de Implementación?",
+                "respuesta": "D",
+                "A": "Detalles del presupuesto asignado para el proyecto.",
+                "B": "Lista de actividades de ocio del equipo de proyecto.",
+                "C": "Información sobre el clima laboral en la empresa.",
+                "D": "Misión, Visión, Objetivos Empresariales y Estrategias a largo, mediano y corto plazo."
+            },
+            {
+                "pregunta": "¿Cuáles son algunos elementos mínimos que deberían estar presentes en el contenido de un plan informático?",
+                "respuesta": "C",
+                "A": "Descripción detallada de todos los departamentos de la empresa.",
+                "B": "Resumen de la satisfacción de los clientes externos.",
+                "C": "Justificación del equipamiento necesario, software básico y recursos humanos.",
+                "D": "Lista de actividades de ocio del equipo de proyecto."
+            },
+            {
+                "pregunta": "¿Qué aspectos destacan en el proceso de pensamiento de diseño?",
+                "respuesta": "C",
+                "A": "Enfoque exclusivo en la resolución de problemas individuales.",
+                "B": "Uso limitado de la creatividad y la generación de ideas.",
+                "C": "Énfasis en la identificación de problemas y necesidades humanas, la creatividad y la colaboración.",
+                "D": "Falta de interacción permanente durante el proceso de diseño."
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes opciones describe mejor el pensamiento de diseño?",
+                "respuesta": "C",
+                "A": "Un proceso individualizado que no enfatiza la colaboración.",
+                "B": "Un enfoque estático que no involucra la generación de ideas.",
+                "C": "Un proceso creativo y colaborativo centrado en identificar problemas, generar ideas, prototipar y promover la interacción continua.",
+                "D": "Un método exclusivamente analítico que no considera las necesidades humanas."
+            },
+            {
+                "pregunta": "¿Cuáles son algunos de los pasos del Design Thinking?",
+                "respuesta": "C",
+                "A": "Planificación, ejecución, evaluación.",
+                "B": "Análisis, implementación, conclusión.",
+                "C": "Empatizar, definir, idear, prototipar, testear.",
+                "D": "Observar, documentar, restringir, finalizar."
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes opciones describe mejor el mapa de empatía para los ingenieros de sistemas de información?",
+                "respuesta": "B",
+                "A": "Un diagrama que muestra la topología de una red informática.",
+                "B": "Una representación gráfica de las emociones y experiencias de los usuarios.",
+                "C": "Un plan de implementación de software en una empresa.",
+                "D": "Un análisis detallado de las características técnicas de un sistema de información."
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes opciones describe mejor cómo se desarrollan y evalúan los elementos mencionados en una empresa?",
+                "respuesta": "D",
+                "A": "A través de métodos de producción y control de calidad.",
+                "B": "Mediante el análisis de datos financieros.",
+                "C": "Definiendo metas y objetivos a corto plazo.",
+                "D": "A través de procesos de reflexión, comunicación y retroalimentación."
+            },
+            {
+                "pregunta": "¿Cuál de los siguientes enunciados describe mejor los objetivos estratégicos?",
+                "respuesta": "C",
+                "A": "Son objetivos con metas específicas y fácilmente cuantificables.",
+                "B": "Se definen sin tener en cuenta la Visión y la Misión de la empresa.",
+                "C": "Deben caracterizarse por su coherencia, veracidad, factibilidad y precisión.",
+                "D": "Son propósitos generales que no requieren evaluación o seguimiento."
+            },
+            {
+                "pregunta": "¿Cuál de los siguientes elementos corresponde a los pasos básicos en la formulación de estrategias empresariales?",
+                "respuesta": "A",
+                "A": "Elección del Sector que va a competir.",
+                "B": "Conjunto de acciones sin relación entre sí.",
+                "C": "Segura gestión de recursos financieros.",
+                "D": "Implementación de tecnología avanzada."
+            },
+            {
+                "pregunta": "¿Cuáles son las estrategias genéricas según el modelo de Porter?",
+                "respuesta": "B",
+                "A": "Incremento de ventas, reducción de gastos y utilidades.",
+                "B": "Liderazgo en costos, enfoque en el mercado y la diferenciación.",
+                "C": "Diversificación, expansión internacional, costo.",
+                "D": "Innovación tecnológica, desarrollo de productos, productos."
+            },
+            {
+                "pregunta": "¿Cuáles son las categorías de estrategias competitivas?",
+                "respuesta": "C",
+                "A": "a) Estrategias de expansión, b) Estrategias de reducción de costos, c) Estrategias de mercado.",
+                "B": "a) Estrategias de penetración, b) Estrategias de desarrollo de producto, c) Estrategias de segmentación.",
+                "C": "a) Estrategias de integración, b) Estrategias intensivas, c) Estrategias de diversificación, según Michael Porter.",
+                "D": "a) Estrategias de promoción, b) Estrategias de alianzas, c) Estrategias de precios."
+            },
+            {
+                "pregunta": "¿Cuál de las siguientes opciones describe mejor la diversificación horizontal?",
+                "respuesta": "A",
+                "A": "Ampliación de la línea de productos para satisfacer diferentes necesidades del mercado.",
+                "B": "Expansión hacia nuevos mercados geográficos para aumentar la base de clientes.",
+                "C": "Adquisición de empresas que operan en industrias distintas a la principal de la compañía.",
+                "D": "Investigación de las preferencias de los clientes para mejorar la calidad de los productos existentes."
+            }
+        ]
+        
+    
+}
