@@ -1,0 +1,26 @@
+#contenedor-home{
+    background-image: url('./../../../assets/Home/Fondo.jpg');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    h1{
+        color: white;
+        font-size: 3rem;
+        margin-bottom: 3rem;
+    }
+
+    mat-radio-group{
+        background-color: rgba(255, 255, 255, 0.808);
+        padding: 1%;
+        margin-bottom: 4rem;
+    }
+
+
+
+
+}

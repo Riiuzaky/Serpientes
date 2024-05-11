@@ -1,1 +1,13 @@
-<p>home works!</p>
+<div id="contenedor-home">
+    <h1>Selecciona la cantidad de Jugadores</h1>
+
+    <mat-radio-group [(ngModel)]="cantidadJugadores" aria-label="Select an option">
+        <mat-radio-button value="2">2 Jugadores</mat-radio-button>
+        <mat-radio-button value="3">3 Jugadores</mat-radio-button>
+        <mat-radio-button value="4">4 Jugadores</mat-radio-button>
+    </mat-radio-group>
+
+
+    <button mat-flat-button color="primary" (click)="start(cantidadJugadores)">Comenzar</button>
+
+</div>

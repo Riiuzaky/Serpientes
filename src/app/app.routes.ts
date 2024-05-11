@@ -5,11 +5,11 @@ import { JuegoComponent } from './components/juego/juego.component';
 export const routes: Routes = [
 
     {
-        path: 'home',
+        path: '',
         component: HomeComponent
     },
     {
-        path: '',
+        path: 'juego/:players',
         component: JuegoComponent
     }
 

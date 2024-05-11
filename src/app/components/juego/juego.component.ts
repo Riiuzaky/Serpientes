@@ -54,7 +54,7 @@ export class JuegoComponent {
   ];
 
   constructor(private route: ActivatedRoute,private router: Router) {
-    this.CantidadJugadores = this.route.snapshot.params['cantidadJugadores'];
+    this.CantidadJugadores = this.route.snapshot.params['players'];
   }
 
 
